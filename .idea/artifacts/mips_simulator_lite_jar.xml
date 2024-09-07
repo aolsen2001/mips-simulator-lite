@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="mips-simulator-lite:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/mips_simulator_lite_jar</output-path>
+    <root id="archive" name="mips-simulator-lite.jar">
+      <element id="module-output" name="src" />
+    </root>
+  </artifact>
+</component>
